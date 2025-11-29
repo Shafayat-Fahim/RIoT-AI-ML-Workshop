@@ -3,3 +3,4 @@ matplotlib
 numpy
 jupyter
 ipykernel
+torch
