@@ -4,3 +4,4 @@ numpy
 jupyter
 ipykernel
 torch
+torchvision
